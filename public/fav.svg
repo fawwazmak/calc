@@ -1,0 +1,38 @@
+<svg width="200" height="300" viewBox="0 0 200 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Calculator Body -->
+  <rect x="10" y="10" width="180" height="280" rx="20" ry="20" fill="#2E2E2E" stroke="#000" stroke-width="2"/>
+
+  <!-- Display Screen -->
+  <rect x="30" y="30" width="140" height="40" rx="5" ry="5" fill="#1C1C1C"/>
+  <text x="40" y="58" fill="#0f0" font-family="monospace" font-size="20">123+456</text>
+
+  <!-- Buttons -->
+  <!-- First Row -->
+  <rect x="30" y="90" width="30" height="30" rx="5" fill="#666"/>
+  <rect x="70" y="90" width="30" height="30" rx="5" fill="#666"/>
+  <rect x="110" y="90" width="30" height="30" rx="5" fill="#666"/>
+  <rect x="150" y="90" width="30" height="30" rx="5" fill="#F39C12"/>
+
+  <!-- Second Row -->
+  <rect x="30" y="130" width="30" height="30" rx="5" fill="#444"/>
+  <rect x="70" y="130" width="30" height="30" rx="5" fill="#444"/>
+  <rect x="110" y="130" width="30" height="30" rx="5" fill="#444"/>
+  <rect x="150" y="130" width="30" height="30" rx="5" fill="#F39C12"/>
+
+  <!-- Third Row -->
+  <rect x="30" y="170" width="30" height="30" rx="5" fill="#444"/>
+  <rect x="70" y="170" width="30" height="30" rx="5" fill="#444"/>
+  <rect x="110" y="170" width="30" height="30" rx="5" fill="#444"/>
+  <rect x="150" y="170" width="30" height="30" rx="5" fill="#F39C12"/>
+
+  <!-- Fourth Row -->
+  <rect x="30" y="210" width="30" height="30" rx="5" fill="#444"/>
+  <rect x="70" y="210" width="30" height="30" rx="5" fill="#444"/>
+  <rect x="110" y="210" width="30" height="30" rx="5" fill="#444"/>
+  <rect x="150" y="210" width="30" height="30" rx="5" fill="#F39C12"/>
+
+  <!-- Fifth Row -->
+  <rect x="30" y="250" width="70" height="30" rx="5" fill="#555"/>
+  <rect x="110" y="250" width="30" height="30" rx="5" fill="#444"/>
+  <rect x="150" y="250" width="30" height="30" rx="5" fill="#27AE60"/>
+</svg>
